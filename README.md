@@ -39,3 +39,5 @@ Software development. You can use Python in software development for scripting, 
 Game development. You can even use it for game development using libraries like PyGame and tkinter.
 
 Machine learning & AI. Libraries like TensorFlow, PyTorch, and Scikit-learn make Python a popular choice in this field. Find out how to learn AI in a separate guide.
+
+According to a 2022 report from GitHub https://octoverse.github.com/2022/top-programming-languages, Python usage increased 22.5% year on year, making it the third-most used language on the platform.
