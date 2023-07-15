@@ -41,3 +41,8 @@ Game development. You can even use it for game development using libraries like 
 Machine learning & AI. Libraries like TensorFlow, PyTorch, and Scikit-learn make Python a popular choice in this field. Find out how to learn AI in a separate guide.
 
 According to a 2022 report from GitHub https://octoverse.github.com/2022/top-programming-languages, Python usage increased 22.5% year on year, making it the third-most used language on the platform.
+
+How Long Does it Take to Learn Python?
+While Python is one of the easier programming languages to learn, it still requires dedication and practice. The time it takes to learn Python can vary greatly depending on your prior experience with programming, the complexity of the concepts you're trying to grasp, and the amount of time you can dedicate to learning.
+
+However, with a structured learning plan and consistent effort, you can often grasp the basics in a few weeks and become somewhat proficient in a few months.
