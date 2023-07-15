@@ -9,3 +9,5 @@ Python supports multiple programming paradigms, including procedural, object-ori
 
 Over the years, Python has become one of the most popular programming languages due to its simplicity, versatility, and wide range of applications. - https://www.tiobe.com/tiobe-index/
 
+These reasons also mean it is a highly favored language for data science as it allows data scientists to focus more on data interpretation rather than language complexities.
+
