@@ -46,3 +46,31 @@ How Long Does it Take to Learn Python?
 While Python is one of the easier programming languages to learn, it still requires dedication and practice. The time it takes to learn Python can vary greatly depending on your prior experience with programming, the complexity of the concepts you're trying to grasp, and the amount of time you can dedicate to learning.
 
 However, with a structured learning plan and consistent effort, you can often grasp the basics in a few weeks and become somewhat proficient in a few months.
+
+Online resources can give you a firm basis for your skills and can range in length. As an example, our Python Programming skill track, covering the skills needed to code proficiently, takes around 24 study hours to complete, while our Data Analyst with Python career track takes around 36 study hours. Of course, the journey to becoming a true Pythonista is a long-term process, and much of your efforts will need to be self-study alongside more structured methods.
+
+As a comparison of how long it takes to learn Python vs other languages:
+
+Language
+
+Time to Learn
+
+Python
+
+1-3 months for basics, 4-12 months for advanced topics
+
+SQL
+
+1 to 2 months for basics, 1-3 months for advanced topics
+
+R
+
+1-3 months for basics, 4-12 months for advanced topics
+
+Julia
+
+1-3 months for basics, 4-12 months for advanced topics
+
+* The above comparisons are purely based on timelines needed to learn to become proficient with a programming language, not timelines needed to break into a career. Moreover, each person learns differently and goes at their own pace, we only aim to provide a framework with these timelines.
+
+A comparison table of how long it would take to learn different programming languages
