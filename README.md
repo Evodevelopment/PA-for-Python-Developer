@@ -48,6 +48,8 @@ While Python is one of the easier programming languages to learn, it still requi
 However, with a structured learning plan and consistent effort, you can often grasp the basics in a few weeks and become somewhat proficient in a few months.
 
 Online resources can give you a firm basis for your skills and can range in length. As an example, our Python Programming skill track, covering the skills needed to code proficiently, takes around 24 study hours to complete, while our Data Analyst with Python career track takes around 36 study hours. Of course, the journey to becoming a true Pythonista is a long-term process, and much of your efforts will need to be self-study alongside more structured methods.
+https://app.datacamp.com/learn/skill-tracks/python-programming
+https://app.datacamp.com/learn/career-tracks/data-analyst-with-python
 
 As a comparison of how long it takes to learn Python vs other languages:
 
