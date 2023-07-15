@@ -21,3 +21,18 @@ class MyClass:
         # ...
         
 MyClass.static_method()  # Calling the static method on the class
+
+#Class method
+class MyClass:
+    class_variable = 0
+    
+    @classmethod
+    def class_method(cls):
+        # Accessing/modifying class variables
+        cls.class_variable = 10
+        
+        # Perform operations related to the class
+        # ...
+        
+MyClass.class_method()  # Calling the class method on the class
+
