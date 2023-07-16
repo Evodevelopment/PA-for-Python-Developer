@@ -41,7 +41,7 @@ Web development. Frameworks such as Django and Flask are used for backend web de
 
 Software development. You can use Python in software development for scripting, automation, and testing.
 
-Game development. You can even use it for game development using libraries like PyGame and tkinter.
+*Game development.* You can even use it for game development using libraries like PyGame and tkinter.
 
 Machine learning & AI. Libraries like TensorFlow, PyTorch, and Scikit-learn make Python a popular choice in this field. Find out how to learn AI in a separate guide.
 
