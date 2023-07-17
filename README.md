@@ -1,6 +1,7 @@
 # PA-for-Python-Developer
 
 Writing efficient code in Python #3(ideally in Python 3.8 or higher).
+
 Database: any relational database(ideally PostgreSQL).
 Some unit and integration tests are nice to have, but not required.• 
 Database schemais not strictly defined, but there must be a separate table for storing IP addresses and anothertable for storing URLs.Let’s consider http://178.62.47.209/banks/ATB/last.htmlto be URLand not IP address.–One line in a given data source (for example one URL) must be storedas one row in a database table.
