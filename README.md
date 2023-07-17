@@ -1,6 +1,6 @@
 # PA-for-Python-Developer
 
-Writing efficient code in Python #3(ideally in Python 3.8 or higher).
+Writing Pythonic code = efficient code in Python #3(ideally in Python 3.8 or higher).
 
 Database: any relational database(ideally PostgreSQL).
 Some unit and integration tests are nice to have, but not required.• 
